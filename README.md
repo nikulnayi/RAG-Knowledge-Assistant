@@ -34,4 +34,4 @@
    ```
 
 ## Demo
-![Demo GIF](assets/Demo.gif) *(Add a short screen recording)*
+![Demo GIF](assets/Demo.gif)
