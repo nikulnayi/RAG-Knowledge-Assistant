@@ -1,0 +1,6 @@
+.env
+*.env
+db/       # Vector database
+data/
+venv/
+db/
