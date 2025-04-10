@@ -34,7 +34,4 @@
    ```
 
 ## Demo
-![Demo GIF](assets/demo.gif) *(Add a short screen recording)*
-
-## License
-MIT © Your Name
+![Demo GIF](assets/Demo.mov) *(Add a short screen recording)*
