@@ -34,4 +34,4 @@
    ```
 
 ## Demo
-<video src="assets/Demo.mov" width="600" controls></video>  *(Add a short screenrecording)*
+![Demo GIF](assets/Demo.gif) *(Add a short screen recording)*
